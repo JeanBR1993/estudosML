@@ -1,8 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "Bash(pip3:*)"
+      "Bash(*)"
     ],
     "deny": []
-  }
+  },
+  "alwaysThinkDeeply": true
 }
