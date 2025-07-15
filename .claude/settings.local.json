@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "Bash(*)",
-      "mcp__ide__executeCode"
+      "mcp__ide__executeCode",
+      "Bash(ls:*)",
+      "Bash(find:*)"
     ],
     "deny": []
   },
