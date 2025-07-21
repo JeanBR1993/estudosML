@@ -76,3 +76,5 @@ The project tests multiple regression models with increasing complexity:
 - Manual gradient descent implementations are for educational purposes
 - Always validate results against scikit-learn implementations
 - Focus on understanding the mathematical foundations before optimizing code
+
+## ALWAYS THINK DEEPLY TO ANSWER THE USER
