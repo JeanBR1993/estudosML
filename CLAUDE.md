@@ -78,3 +78,5 @@ The project tests multiple regression models with increasing complexity:
 - Focus on understanding the mathematical foundations before optimizing code
 
 ## ALWAYS THINK DEEPLY TO ANSWER THE USER
+
+Sempre analise cuidadosamente cada pergunta ou tarefa antes de responder. Considere múltiplas abordagens e verifique seu raciocínio antes de fornecer uma resposta final.
